@@ -53,11 +53,4 @@ In this seccion of the report we include the results of our analysis taking into
 <p align='center'> <img alt='JSON Data' src="https://github.com/Dav9nchi/Leaflet-challenge/blob/main/Leaflet-Part-1/Images/Legend.png"> </p>
 
 ## Credits
- The research support to make this challenge succesfull comes from edX Tutors, Chat Gpt, AskBCS, Teachers, TA, Google.
-
-
-
-
-
-
-
+ The research support to make this challenge succesful comes from edX Tutors, Chat Gpt, AskBCS, Teachers, TA, Google.
