@@ -13,7 +13,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 ## Instructions
 The aim for this project is to <strong>`Create the Earthquake Visualization`</strong>
 
-### <center> Create the Earthquake Visualization
+## <center> Create the Earthquake Visualization
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 Get your dataset. To do so, follow these steps:
 
