@@ -1,10 +1,19 @@
-body {
-  padding: 0;
-  margin: 0;
-}
+body 
+  {padding: 0;
+  margin: 0;}
+
+/* colors inside of the legend for each range */
+.legend i
+ {width: 18px;
+  height: 16px;
+  float: right;
+  margin: 0 6px}
+
+/* color of the box and letters inside of the box*/
+.legend 
+ {font-size: 11px;
+  background: rgba(255, 255, 255, 0.8);}
 
 #map,
 body,
-html {
-  height: 100%;
-}
+html {height: 100%;}
