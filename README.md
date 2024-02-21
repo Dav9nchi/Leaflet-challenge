@@ -1,4 +1,4 @@
-# <center> Leaflet Challenge
+# <center> Leaflet Challenge </center>
 
 ## Autor
 > **David Castano.** 
